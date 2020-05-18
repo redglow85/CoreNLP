@@ -6,3 +6,6 @@
 *.so
 .DS_Store
 .settings/**
+
+# Private local IDE settings
+.idea
